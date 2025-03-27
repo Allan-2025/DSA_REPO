@@ -40,5 +40,6 @@ int main() {
     printf("Physics: %.2f\n", averagePhysics);
     printf("Chemistry: %.2f\n", averageChemistry);
     printf("math: %.2f\n", averageMath);
+    printf("overallAverage:%.2\n",overallAverage);
     return 0;
 }
